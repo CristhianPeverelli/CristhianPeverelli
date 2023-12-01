@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Cristhian Peverelli, and actually I am a student at Università degli Studi di Milano. I spend most of my time on mobile games development in _Unity_ and at solving coding puzzles/challenges on _Codewars.com_ or the _The Advent of Code_ (most of them are solved using Java or Golang).
+My name is Cristhian Peverelli, and actually I am a student at Università degli Studi di Milano. I spend most of my time on mobile games development in _Unity_ and at solving coding puzzles/challenges on _Codewars.com_,LeetCode_ or on _The Advent of Code_ (most of them are solved using Java or Golang).
 
 ## Some of my projects
 
